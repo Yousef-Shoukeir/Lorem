@@ -1,0 +1,49 @@
+#hero {
+    text-align: center;
+}
+.navbar-brand {
+    font-weight: 600;
+}
+#text-hero {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+#hero-image {
+    width: 15in;
+    height: 10cm;
+}
+#convertor-text {
+    text-align: center;
+    margin-top: 1cm;
+}
+body {
+    margin-bottom: 0.6cm;
+}
+#copyright {
+    margin-left: 1cm;
+    margin-top: 2cm;
+}
+#forms {
+    margin-left: 10cm;
+    margin-right: 10cm;
+}
+#result {
+    margin-top: 0.4cm;
+    text-align: center;
+}
+#convert {
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    margin-left: 6.7cm;
+    display: flex;
+}
+#break {
+    background-color: gray;
+    height: 0.04cm;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    margin-top: 1cm;
+}
